@@ -2,15 +2,15 @@
     padding: 0%;
     margin: 0%;
 }
+main{
+    position: relative;
+    height: 100vh;
+}
 body{
     background-image: url(imagens/fundo-madeira.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-}
-main{
-    position: relative;
-    height: 100vh;
 }
 #celular{
     position: absolute;
